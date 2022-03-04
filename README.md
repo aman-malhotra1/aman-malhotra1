@@ -1,4 +1,4 @@
-Hi, I am Aman Malhotra. I love to analyze data and develop complicated reports and solve complicated problems by using DAX measures and calculations.
+Hi, I am Aman Malhotra. I love to analyze data and develop reports and solve complicated problems by using advanced DAX measures and calculations.
 
 Skills :
 
